@@ -1,0 +1,17 @@
+.second {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border-bottom: 1px solid black; */
+}
+
+.second > div {
+  margin: 5px 5px;
+}
+
+label {
+  font-weight: bold;
+}
+#my-radio {
+  accent-color: #932dad;
+}

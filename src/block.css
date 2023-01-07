@@ -1,0 +1,21 @@
+/* .block{
+  flex-wrap: wrap;
+} */
+
+.m_content {
+  border: 3px solid silver;
+  /* padding:20px 40px 20px 2px; */
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-left: 4px;
+  padding-top: 10%;
+  width: 100px;
+  height: 50px;
+}
+
+.m_content:hover {
+  cursor: pointer;
+  border: 3px solid #932dad;
+  width: 110px;
+  height: 60px;
+}
